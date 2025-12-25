@@ -1,5 +1,16 @@
 ---
 layout: page
-title: ManyManys' Publications
+title: Publications
+subtitle:
+cover-img: 
 ---
-Site under construction. See you soon!
+
+<style>
+  .hanging-indent {
+    text-indent: -2em; /* Pull the first line back */
+    padding-left: 2em; /* Push the rest of the text forward */
+  }
+</style>
+
+<p class="hanging-indent">
+    Prétôt, L., Agrillo, C., Bluck, B.C., Cabrera-Álvarez, M.J., Héjja-Brichard, Y., Irwin, K., Klinke, A., Lucon-Xiccato, T., Newport, C., Segev, R., & Yeager, J. (2025) ManyFishes: a big team science collaboration on fish comparative cognition. </i>Animal Cognition</i>. <a href="https://doi.org/10.1007/s10071-025-02031-3" target="_blank" style="text-decoration: none; color: inherit;">https://doi.org/10.1007/s10071-025-02031-3</a>
