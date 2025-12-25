@@ -20,8 +20,7 @@ author: ManyFishes
 ###############################################
 
 navbar-links:
-  About Us:
-    - Team: "Team"
+  About Us: "Team"
   Projects:
     - MFish1: "MFish1"
   Events: 
